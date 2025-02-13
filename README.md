@@ -4,4 +4,4 @@ Currículo de Mariana Duarte dos Santos
 
 ## Observção:
 
-Fale comigo ainda não funciona!
+A seção "Fale Comigo" ainda não funciona!
